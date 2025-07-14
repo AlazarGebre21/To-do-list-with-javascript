@@ -27,3 +27,9 @@ Doing that will give us this result
 
 As shown in the image you can edit and delete the tasks
 
+when pressing the edit button this kind of prompt will come
+
+<img width="1407" height="309" alt="image" src="https://github.com/user-attachments/assets/33810d7d-108c-4f8b-8aa8-e6dfdb72166d" />
+
+as your choice you can edit or cancel the process 
+
